@@ -1,5 +1,5 @@
 {
-  "name": "grunt-cwebp",
+  "name": "@benchesh/grunt-cwebp",
   "version": "2.1.1",
   "description": "Convert JPG and PNG images to WebP with grunt task.",
   "repository": "1000ch/grunt-cwebp",
